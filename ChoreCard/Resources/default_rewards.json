@@ -1,0 +1,9 @@
+[
+  { "title": "Extra 30 minutes of screen time", "cost": 30 },
+  { "title": "Pick the movie for movie night", "cost": 40 },
+  { "title": "Choose dinner one night", "cost": 50 },
+  { "title": "Stay up 30 minutes later", "cost": 60 },
+  { "title": "A trip to the park", "cost": 75 },
+  { "title": "A small treat", "cost": 100 },
+  { "title": "A day off chores", "cost": 120 }
+]
